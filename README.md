@@ -1,4 +1,4 @@
-# apnacollege-demo
+# ravimanitripathi
 This is my first Git Repository.
 <br>
 Author - Ravi Mani Tripathi
